@@ -1,3 +1,4 @@
+geopandas
 jupyterlab
 jupyterlab-kite
 kaleido
